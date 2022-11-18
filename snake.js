@@ -176,4 +176,3 @@ function resetGame(){
     ];
     gameStart();
 };
-//
